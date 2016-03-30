@@ -4,5 +4,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path=".classpath"/>
 	<classpathentry kind="lib" path=".project"/>
+	<classpathentry kind="lib" path="/Java1Lection5/acm.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
