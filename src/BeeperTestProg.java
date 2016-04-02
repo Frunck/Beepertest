@@ -16,7 +16,7 @@ public class BeeperTestProg extends ConsoleProgram{
 
 	private static void printArray(int[] a) {
 		for (int i = 0; i < a.length; i++) {
-			System.out.println(a[i]);
+			System.out.println("все" + a[i]);
 		}
 	}
 
