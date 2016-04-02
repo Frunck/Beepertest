@@ -1,3 +1,4 @@
+
 import acm.program.*;
 import acm.util.*;
 
@@ -23,8 +24,8 @@ public class BeeperTestProg extends ConsoleProgram {
 			println("Випало " + roll);
 		}
 		
-		println("Випало " + maxRoll + " після " + numRolls + " спроб");
 	}
+
 
 	/* Returns the total of rolling numDice dice */
 	private int rollDice(int numDice) {

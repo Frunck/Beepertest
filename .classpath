@@ -4,6 +4,10 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path=".classpath"/>
 	<classpathentry kind="lib" path=".project"/>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="/Java1Lection8/acm.jar"/>
+=======
+	<classpathentry kind="lib" path="/Java1Lection5/acm.jar"/>
+>>>>>>> 1943f1bb9bac62dfa4f4b5856bd5862422b2f71e
 	<classpathentry kind="output" path="bin"/>
 </classpath>
